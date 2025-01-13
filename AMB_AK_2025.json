@@ -9,7 +9,8 @@
         "Tags": [
             "AI",
             "Data"
-        ]
+        ],
+        "Release_date":"01.01.2025"
     },
     {
         "id": "saadan-udnytter-du-foerstepartsdata-til-skarpere-maalretning-i-din-markedsfoering",
@@ -21,7 +22,8 @@
         "Tags": [
             "Førstepartsdata",
             "Data"
-        ]
+        ],
+        "Release_date":"01.01.2025"
     },
     {
         "id": "vi-har-sat-stroem-til-en-fantastisk-sportssommer",
@@ -30,7 +32,8 @@
         "description": "Vingegaard er med i Touren og EM brager der ud af i Tyskland. Det bliver med andre ord Oddset-vejr i mange uger, hvor Danske Licens Spil sætter strøm til et væld af spændende, digitale udfordringer under bl.a. fodbold-EM",
         "image_link": "https://ambition.dk/wp-content/uploads/2024/08/sportssommer-1.jpg",
         "categories": "MarTech",
-        "Tags": "Case"
+        "Tags": "Case",
+        "Release_date":"01.01.2025"
     },
     {
         "id": "nyt-fra-meta-faa-mere-ud-af-dit-marketingbudget-med-ny-maalretningsmulighed",
@@ -42,6 +45,7 @@
         "Tags": [
             "Meta",
             "Data"
-        ]
+        ],
+        "Release_date":"01.01.2025"
     }
 ]
