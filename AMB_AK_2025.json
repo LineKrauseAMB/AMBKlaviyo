@@ -1,38 +1,47 @@
 [
-  {
-    "id":"hvordan-laerte-ai-at-laese-og-hvad-betyder-det-for-din-markedsfoering",
-    "title":"Hvordan lærte AI at læse",
-    "link":"https://ambition.dk/indlaeg/hvordan-laerte-ai-at-laese-og-hvad-betyder-det-for-din-markedsfoering/",
-    "description":"Vi er kommet langt siden de dage, hvor kunstig intelligens primært var kendt for at analysere tal, genkende billeder og forudsige trends. I dag kan generative AI-modeller som ChatGPT forstå og generere tekst på et niveau, der virker næsten menneskeligt. Men hvordan lærte AI egentlig at læse, forstå og returnere tekst? Og hvad betyder det for din virksomheds markedsføring og interaktion med dine kunder?",
-    "image_link":"https://ambition.dk/wp-content/uploads/2024/12/ai-laeser.jpg",
-    "categories":"Data",
-    "Tags":["AI", "Data"]
-  },
-  {
-    "id":"saadan-udnytter-du-foerstepartsdata-til-skarpere-maalretning-i-din-markedsfoering",
-    "title":"Sådan udnytter du førstepartsdata",
-    "link":"https://ambition.dk/indlaeg/saadan-udnytter-du-foerstepartsdata-til-skarpere-maalretning-i-din-markedsfoering/",
-    "description":"Man har igennem længere tid kunnet udnytte førstepartsdata i både Facebook og Google Ads. Det er primært blevet brugt til at forbedre konverteringsdata og gøre målretningen skarpere i forhold til målgrupper, men nu er det også muligt at udnytte brugerdata i GA4, så man også her opnår mere præcise konverteringsdata.",
-    "image_link":"https://ambition.dk/wp-content/uploads/2024/09/ga4-consent.jpg",
-    "categories":"Data",
-    "Tags":["Førstepartsdata", "Data"]
-  },
-  {
-    "id":"vi-har-sat-stroem-til-en-fantastisk-sportssommer",
-    "title":"Vi har sat strøm til en fantastisk sportssommer",
-    "link":"https://ambition.dk/indlaeg/vi-har-sat-stroem-til-en-fantastisk-sportssommer/",
-    "description":"Vingegaard er med i Touren og EM brager der ud af i Tyskland. Det bliver med andre ord Oddset-vejr i mange uger, hvor Danske Licens Spil sætter strøm til et væld af spændende, digitale udfordringer under bl.a. fodbold-EM",
-    "image_link":"https://ambition.dk/wp-content/uploads/2024/08/sportssommer-1.jpg",
-    "categories":"MarTech",
-    "Tags":"Case"
-  },
-  {
-    "id":"nyt-fra-meta-faa-mere-ud-af-dit-marketingbudget-med-ny-maalretningsmulighed",
-    "title":"Nyt fra Meta:",
-    "link":"https://ambition.dk/indlaeg/nyt-fra-meta-faa-mere-ud-af-dit-marketingbudget-med-ny-maalretningsmulighed/",
-    "description":"Få mere ud af dit marketingbudget med ny målretningsmulighed",
-    "image_link":"https://ambition.dk/wp-content/uploads/2024/10/meta-maalretning.jpg",
-    "categories":"Performance Marketing",
-    "Tags":["Meta", "Data"]
-  }
+    {
+        "id": "hvordan-laerte-ai-at-laese-og-hvad-betyder-det-for-din-markedsfoering",
+        "title": "Hvordan lærte AI at læse",
+        "link": "https://ambition.dk/indlaeg/hvordan-laerte-ai-at-laese-og-hvad-betyder-det-for-din-markedsfoering/",
+        "description": "Vi er kommet langt siden de dage, hvor kunstig intelligens primært var kendt for at analysere tal, genkende billeder og forudsige trends. I dag kan generative AI-modeller som ChatGPT forstå og generere tekst på et niveau, der virker næsten menneskeligt. Men hvordan lærte AI egentlig at læse, forstå og returnere tekst? Og hvad betyder det for din virksomheds markedsføring og interaktion med dine kunder?",
+        "image_link": "https://ambition.dk/wp-content/uploads/2024/12/ai-laeser.jpg",
+        "categories": "Data",
+        "Tags": [
+            "AI",
+            "Data"
+        ]
+    },
+    {
+        "id": "saadan-udnytter-du-foerstepartsdata-til-skarpere-maalretning-i-din-markedsfoering",
+        "title": "Sådan udnytter du førstepartsdata",
+        "link": "https://ambition.dk/indlaeg/saadan-udnytter-du-foerstepartsdata-til-skarpere-maalretning-i-din-markedsfoering/",
+        "description": "Man har igennem længere tid kunnet udnytte førstepartsdata i både Facebook og Google Ads. Det er primært blevet brugt til at forbedre konverteringsdata og gøre målretningen skarpere i forhold til målgrupper, men nu er det også muligt at udnytte brugerdata i GA4, så man også her opnår mere præcise konverteringsdata.",
+        "image_link": "https://ambition.dk/wp-content/uploads/2024/09/ga4-consent.jpg",
+        "categories": "Data",
+        "Tags": [
+            "Førstepartsdata",
+            "Data"
+        ]
+    },
+    {
+        "id": "vi-har-sat-stroem-til-en-fantastisk-sportssommer",
+        "title": "Vi har sat strøm til en fantastisk sportssommer",
+        "link": "https://ambition.dk/indlaeg/vi-har-sat-stroem-til-en-fantastisk-sportssommer/",
+        "description": "Vingegaard er med i Touren og EM brager der ud af i Tyskland. Det bliver med andre ord Oddset-vejr i mange uger, hvor Danske Licens Spil sætter strøm til et væld af spændende, digitale udfordringer under bl.a. fodbold-EM",
+        "image_link": "https://ambition.dk/wp-content/uploads/2024/08/sportssommer-1.jpg",
+        "categories": "MarTech",
+        "Tags": "Case"
+    },
+    {
+        "id": "nyt-fra-meta-faa-mere-ud-af-dit-marketingbudget-med-ny-maalretningsmulighed",
+        "title": "Nyt fra Meta:",
+        "link": "https://ambition.dk/indlaeg/nyt-fra-meta-faa-mere-ud-af-dit-marketingbudget-med-ny-maalretningsmulighed/",
+        "description": "Få mere ud af dit marketingbudget med ny målretningsmulighed",
+        "image_link": "https://ambition.dk/wp-content/uploads/2024/10/meta-maalretning.jpg",
+        "categories": "Performance Marketing",
+        "Tags": [
+            "Meta",
+            "Data"
+        ]
+    }
 ]
